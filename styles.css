@@ -1,0 +1,43 @@
+/* styles.css */
+
+body {
+  font-family: Georgia, serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #006400;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #006400;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #e0e0e0;
+  color: #333;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 100, 0, 0.2);
+}
